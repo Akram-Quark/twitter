@@ -64,7 +64,7 @@ function TweetBox({ setTweets }: Props) {
     <div className="p5 flex space-x-2">
       <img
         className="m-5 h-12 w-12 rounded-full object-cover"
-        src="https://cdn.pixabay.com/photo/2017/03/24/07/28/twitter-2170426__340.png"
+        src="https://cdn.pixabay.com/photo/2015/07/31/15/00/coffee-869203__340.jpg"
         alt="avatar"
       />
       <div className="flex flex-1 items-center pl-2">
